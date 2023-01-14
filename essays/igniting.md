@@ -1,19 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Why I chose MIS"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-01-13
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - MIS
+  - Finance
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Since High School, I have always tried my best to immerse myself into new challenges. Thus, I took classes in a wide variety of fields from performing arts, engineering, economics, environmental science, and business finance and marketing. Although, I had a memorable time in each of the classes that I took, one field in particular stood out to me, that was business. From my junior, I began to focus more on my business classes, absorbing as much information as I could that would best prepare me for college and beyond. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+I was not thinking of going into a field that was highly computer intensive until I entered college. Similar to many of my colleagues, I went into college as an Exploratory Business major. I was fully aware that the future would become more technologically advanced and that going into the business industry, understanding technology would be extremely important. When I took the first ICS 101 course, I was drawn to the complexity of the internet and was eager to learn more. The following semester I took BUS 311, an Information Systems course, and from there I became more interested in careers within CyberSecurity and Information Technology. I find it interesting of how many possibilities there are on the internet, along with the codes, websites, and security softwares that we could learn to utilize.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I hope to learn a lot regarding programming codes in this ITM 352, and test my technical knowledge to advance myself throughout my MIS journey during and post-college.
